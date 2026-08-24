@@ -4,6 +4,12 @@ A Machine Learning web application that predicts **healthcare/insurance costs** 
 
 The model is built using **XGBoost Regressor** and deployed as a web application using **Flask** and **Gunicorn**.
 
+## 🌐 Live Demo
+
+🚀 **Try the application here:**
+
+https://health-cost-prediction-xgboost-1.onrender.com/
+
 ---
 
 ## 🚀 Features
@@ -14,7 +20,7 @@ The model is built using **XGBoost Regressor** and deployed as a web application
 * 🎨 Attractive and responsive web interface
 * 🌐 Flask-based web application
 * ⚡ Gunicorn production server
-* ☁️ Ready for deployment on Render
+* ☁️ Deployed on Render
 * 📱 Responsive design for desktop and mobile
 
 ---
@@ -150,7 +156,7 @@ http://localhost:5000
 
 ## 🌐 Deployment on Render
 
-This project is ready to deploy on **Render**.
+This project is deployed on **Render** and is ready for cloud deployment.
 
 ### Build Command
 
